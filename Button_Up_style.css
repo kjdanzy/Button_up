@@ -1,0 +1,30 @@
+button {
+    display: inline-block;
+    margin: 40px;
+    width: 200px;
+    height: 30px;
+    font-size: 12pt;
+}
+
+.search {
+    border-radius: 12px;
+    border-color: green;
+    background-color: whitesmoke;
+    color: green;
+}
+
+.circleIt {
+    background-color: green;
+    color:whitesmoke;
+    width: 75px;
+    height: 75px;
+    border-radius: 60%;
+    border-color: 0;
+    font-size: 30pt;
+}
+
+.rectangle {
+    color:whitesmoke;
+    background-color:royalblue;
+    box-shadow: 6px 6px black;
+}
